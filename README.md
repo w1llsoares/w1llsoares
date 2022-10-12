@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+William+Soares;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<div>
+<div align="center">  
    <a href="https://github.com/w1llsoares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w1llsoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1llsoares&layout=compact&langs_count=6&theme=tokyonight"/>
 <br>
-
-<div align="center">  
   
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
